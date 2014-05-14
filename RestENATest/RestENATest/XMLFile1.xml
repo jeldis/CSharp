@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<message>
+	<header> 
+		<msg_type>SCD01</msg_type>
+		<id_trx_rec>123456</id_trx_rec>
+		<company_id>EP</company_id>
+		<collector_id>1234567890</collector_id> 
+		<date>2014-04-06T10:23:20-04:00</date>
+		<channel>INT</channel>
+		<country_code>PA</country_code>
+		<currency_code>USD</currency_code>
+	</header>
+	<body>
+		<service_id>PANAPAS</service_id>
+		<client_id/>
+		<document_id/>
+		<contract_id>1234</contract_id>
+	</body>
+</message>
